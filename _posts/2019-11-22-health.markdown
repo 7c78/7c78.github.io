@@ -78,17 +78,17 @@ tế thực vật đa dạng và nhiều hơn "rau" và "quả" rất nhiều.
 
 Thực vật có các nhóm sau:
 
-| Nhóm                               | Ví dụ                                                                                                                               | Dinh dưỡng                                                                                                                       |
-|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Wholegrain<br>(ngũ cốc nguyên hạt) | Yến mạch (whole-grain oats)<br>Gạo lứt (brown rice)<br>Lúa mì (wholegrain wheat)<br>Khoai tây (potato)<br>Khoai lang (sweet potato) | Tinh bột (nhiều)<br>Đạm (nhiều)<br>Chất xơ (nhiều)<br>Vitamin (ít)<br>Khoáng chất (ít)                                           |
-| Nut<br>(hạt to)                    | Hạt lạc (peanut)<br>Hạt hạnh nhân (Almond)<br>Hạt óc chó (walnut)<br>hạt hồ đào (pecan)                                             | Tinh bột (chính)<br>Đạm (rất nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)                     |
-| Seed<br>(hạt nhỏ)                  | Hạt lanh (flaxseed)<br>Hạt chia (chiaseed)<br>Hạt vừng (sesame)                                                                     | Tinh bột (phụ)<br>Đạm (rất nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)                       |
-| Legume<br>(hạt đậu)                | Đậu thận (kidney bean)<br>Đậu lăng (Lentils)<br>Đậu đen (blackbean)<br>Đậu xanh (greenbean)                                         | Tinh bột (chính)<br>Đạm (rất nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)                     |
-| Fruit<br>(quả)                     | Táo (apple)                                                                                                                         | Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)                                                            |
-| Vegetable<br>(rau)                 | Súp lơ xanh (broccoli)<br>Súp lơ trắng (cauliflower)<br>Cải bắp (cabbage)<br>Cải xoăn kale (kale)<br>Cải thìa (bok choy)            | Chất xơ (rất nhiều)<br>Vitamin (rất rất nhiều)<br>Khoáng chất (rất nhiều)<br>Antioxidant (rất nhiều)                             |
-| Spice<br>(gia vị)                  | Nghệ (turmeric)<br>Gừng (ginger)<br>Quế (cinnamon)<br>Đinh hương (clove)                                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Antioxidant (rất nhiều) |
-| Herb<br>(thảo mộc)                 | Mùi tây (parsley)<br>Húng quế (basil)<br>Mùi (cilantro)<br>Thì là (dill)<br>Tỏi (garlic)                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Antioxidant (rất nhiều) |
-| Khác                               | Trà (tea)<br>Cà phê (coffee)<br>Cacao (cocoa)                                                                                       | Antioxidant (rất nhiều)                                                                                                          |
+| Nhóm                               | Ví dụ                                                                                                                               | Dinh dưỡng                                                                                                                                                    |
+|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wholegrain<br>(ngũ cốc nguyên hạt) | Yến mạch (whole-grain oats)<br>Gạo lứt (brown rice)<br>Lúa mì (wholegrain wheat)<br>Khoai tây (potato)<br>Khoai lang (sweet potato) | Tinh bột (nhiều)<br>Đạm (nhiều)<br>Chất xơ (nhiều)<br>Vitamin (ít)<br>Khoáng chất (ít)                                                                        |
+| Nut<br>(hạt to)                    | Hạt lạc (peanut)<br>Hạt hạnh nhân (Almond)<br>Hạt óc chó (walnut)<br>hạt hồ đào (pecan)                                             | Tinh bột (chính)<br>Đạm (rất nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)                                                  |
+| Seed<br>(hạt nhỏ)                  | Hạt lanh (flaxseed)<br>Hạt chia (chiaseed)<br>Hạt vừng (sesame)                                                                     | Tinh bột (phụ)<br>Đạm (rất nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)                                                    |
+| Legume<br>(hạt đậu)                | Đậu thận (kidney bean)<br>Đậu lăng (Lentils)<br>Đậu đen (blackbean)<br>Đậu xanh (greenbean)                                         | Tinh bột (chính)<br>Đạm (rất nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)                                                  |
+| Fruit<br>(quả)                     | Táo (apple)                                                                                                                         | Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)<br>Chống ung thư (mạnh)                                                                 |
+| Vegetable<br>(rau)                 | Súp lơ xanh (broccoli)<br>Súp lơ trắng (cauliflower)<br>Cải bắp (cabbage)<br>Cải xoăn kale (kale)<br>Cải thìa (bok choy)            | Chất xơ (rất nhiều)<br>Vitamin (rất rất nhiều)<br>Khoáng chất (rất nhiều)<br>Chống oxy hoá(rất nhiều)<br>Chống ung thư (mạnh)                                 |
+| Spice<br>(gia vị)                  | Nghệ (turmeric)<br>Gừng (ginger)<br>Quế (cinnamon)<br>Đinh hương (clove)                                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Chống oxy hoá(rất nhiều)<br>Chống ung thư (rất mạnh) |
+| Herb<br>(thảo mộc)                 | Mùi tây (parsley)<br>Húng quế (basil)<br>Mùi (cilantro)<br>Thì là (dill)<br>Tỏi (garlic)                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Chống oxy hoá(rất nhiều)<br>Chống ung thư (rất mạnh) |
+| Khác                               | Trà (tea)<br>Cà phê (coffee)<br>Cacao (cocoa)                                                                                       | Chống oxy hoá (rất nhiều)<br>Tăng cường chức năng não                                                                                                         |
 
 **Độ giàu dinh dưỡng (nutrient-dense)** Số lượng quan trọng nhưng chất lượng còn
 quan trọng hơn. Chính vì vậy dưa chuột, cà chua hay cần tây, rau sống, dù bạn có
@@ -117,12 +117,12 @@ và rất nhiều loại bệnh chết người khác. [https://www.ncbi.nlm.nih
 
 **Omega-3 (tốt)** Rất hiếm nguồn thức ăn chứa omega-3. Omega-3 tăng cường sức
 khỏe não, mắt, tim mạch, chống viêm (inflammation), rối loạn não (mental
-disorder), chống ung thư, giảm mỡ trong giam và rất nhiều lợi ích khác. Thông
+disorder), chống ung thư, giảm mỡ trong gan và rất nhiều lợi ích khác. Thông
 thường để bổ sung omega-3 bạn cần ăn dầu oliu. Nhưng nguồn tốt nhất lại là hạt
 lanh (flaxseed), chỉ 2 thìa (tablespoon) (đã nghiền) là bạn đã đủ omega-3 cho cả
 ngày.
 
-**Omega-6, 9 (hại)** ) Là thứ chúng ta không cần. Hầu hết các loại dầu ăn, đồ ăn
+**Omega-6, 9 (xấu)** Là thứ chúng ta không cần. Hầu hết các loại dầu ăn, đồ ăn
 đã có thừa omega-6, 9 vì vậy bạn cần hạn chế omega-6, 9 và chỉ tập trung vào
 omega-3.
 
@@ -143,3 +143,12 @@ nành" tuy tốt hơn mỡ lợn và bơ ở khoản ít hơn saturated nhưng l
 omega-6.
 
 ![oils](images/posts/2019-11-22-health/oils.png)
+
+**Siêu thực phẩm (super foods)** Chúng ta thường nghĩ superfood là những đồ đắt
+tiền như kiểu mật gấu, tổ yến, rượu rắn. Sự thật, chúng chả có dinh dưỡng gì.
+Những ai bỏ tiền triệu ra để ăn những đồ như vậy đơn giản vì họ thiếu hiểu biết.
+
+Bạn không cần phải giàu có để có thể ăn superfood. Superfood là những đồ ăn chất
+lượng cao so với các đồ ăn bình thường mà chỉ một lượng nhỏ thôi cũng đủ thay
+đổi cuộc chơi. Chúng chống ung thư (anti-cancer), chống oxy hoá (antioxidant),
+chống viêm (anti-inflammatory), và chứa nhiều vitamin và khoáng chất.
