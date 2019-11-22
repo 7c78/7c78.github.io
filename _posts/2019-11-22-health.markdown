@@ -18,8 +18,8 @@ dụng "tốt cho tiêu hóa".
 Cách chúng ta nhìn nhận thịt với rau như vậy khác hoàn toàn với thực tế.
 
 Thực tế, dinh dưỡng tập trung nhiều nhất ở thực vật chứ không phải động vật.
-Thực tế, thức ăn thực vật tốt cho sức khỏe hơn thức ăn động vật
-([https://www.ncbi.nlm.nih.gov/pubmed/10466159](https://www.ncbi.nlm.nih.gov/pubmed/10466159)).
+Thực tế, thức ăn thực vật tốt cho sức khỏe hơn thức ăn động vật.
+([https://www.ncbi.nlm.nih.gov/pubmed/10466159](https://www.ncbi.nlm.nih.gov/pubmed/10466159))
 
 Chế độ ăn của chúng ta bị ảnh hưởng bởi văn hóa. Bạn sinh ra ở Việt Nam, Nhật
 Bản, Hàn Quốc, Ấn Độ, Mỹ, Pháp, Châu Phi, bạn sẽ ăn những thức ăn hoàn toàn khác
@@ -89,3 +89,57 @@ Thực vật có các nhóm sau:
 | Spice<br>(gia vị)                  | Nghệ (turmeric)<br>Gừng (ginger)<br>Quế (cinnamon)<br>Đinh hương (clove)                                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Antioxidant (rất nhiều) |
 | Herb<br>(thảo mộc)                 | Mùi tây (parsley)<br>Húng quế (basil)<br>Mùi (cilantro)<br>Thì là (dill)<br>Tỏi (garlic)                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Antioxidant (rất nhiều) |
 | Khác                               | Trà (tea)<br>Cà phê (coffee)<br>Cacao (cocoa)                                                                                       | Antioxidant (rất nhiều)                                                                                                          |
+
+**Độ giàu dinh dưỡng (nutrient-dense)** Số lượng quan trọng nhưng chất lượng còn
+quan trọng hơn. Chính vì vậy dưa chuột, cà chua hay cần tây, rau sống, dù bạn có
+ăn nhiều bao nhiêu cũng vẫn không bằng bạn ăn ít súp lơ, cải kale vì chúng giàu
+dinh dưỡng hơn. Vì vậy bạn cần tập trung vào chất lượng của loại rau hay quả chứ
+không phải số lượng. Một tí xíu quế (cinnamon) bỏ vào đồ uống smoothie cũng đủ
+tăng lượng antioxidant (chống oxy hoá) bằng cả ngày của một người trung bình.
+
+**ANDI (Aggregate Nutrient Density Index) - Chỉ số giàu dinh dưỡng** Đồ ăn nào
+chứa lượng dinh dưỡng đậm đặc nhất.
+
+([http://www.micronutrients.com/wp-content/uploads/2015/07/ANDI-chart.pdf]http://www.micronutrients.com/wp-content/uploads/2015/07/ANDI-chart.pdf)
+
+**Chất xơ (fiber)** đã được chứng minh làm giảm rủi ro
+
+Ung thư dạ dày (colon cancer) [http://www.bmj.com/content/343/bmj.d6617](http://www.bmj.com/content/343/bmj.d6617)<br>
+Ung thư vú (breast cancer) [https://www.ncbi.nlm.nih.gov/pubmed/24389767](https://www.ncbi.nlm.nih.gov/pubmed/24389767)<br>
+Tiểu đường (Diabetes) [https://www.ncbi.nlm.nih.gov/pubmed/24389767](https://www.ncbi.nlm.nih.gov/pubmed/24389767)<br>
+Bệnh tim (heart disease) [http://www.bmj.com/content/347/bmj.f6879](http://www.bmj.com/content/347/bmj.f6879)<br>
+Béo phì (Obesity) [https://www.ncbi.nlm.nih.gov/pubmed/16741275](https://www.ncbi.nlm.nih.gov/pubmed/16741275)<br>
+và rất nhiều loại bệnh chết người khác. [https://www.ncbi.nlm.nih.gov/pubmed/25143474](https://www.ncbi.nlm.nih.gov/pubmed/25143474)
+
+**Cognitive functions** Biết 2 ngôn ngữ có thể đẩy lùi suy giảm chức năng não
+(cognitive decline) đến tận 5 năm.
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322418](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322418)
+
+**Omega-3 (tốt)** Rất hiếm nguồn thức ăn chứa omega-3. Omega-3 tăng cường sức
+khỏe não, mắt, tim mạch, chống viêm (inflammation), rối loạn não (mental
+disorder), chống ung thư, giảm mỡ trong giam và rất nhiều lợi ích khác. Thông
+thường để bổ sung omega-3 bạn cần ăn dầu oliu. Nhưng nguồn tốt nhất lại là hạt
+lanh (flaxseed), chỉ 2 thìa (tablespoon) (đã nghiền) là bạn đã đủ omega-3 cho cả
+ngày.
+
+**Omega-6, 9 (hại)** ) Là thứ chúng ta không cần. Hầu hết các loại dầu ăn, đồ ăn
+đã có thừa omega-6, 9 vì vậy bạn cần hạn chế omega-6, 9 và chỉ tập trung vào
+omega-3.
+
+**Chất béo (fat)** Tránh xa chất béo bão hoà (saturated fat). Tránh càng xa chất
+béo chuyển hóa (trans-fat). Thứ bạn thật sự cần là chất béo không bão hòa
+(unsaturated fat / polyunsaturated and monounsaturated fat). Tránh xa các loại
+chất béo từ mỡ động vật (mỡ lợn), ở dạng rắn ở nhiệt độ phòng (bơ), dầu dừa vì
+lượng saturated rất cao. Tránh càng xa các đồ rán (deep-fried) như khoai tây rán
+hay bánh xèo. Vì nó chứa rất nhiều trans-fat.
+
+Chất béo mà bạn cần sẽ nằm trong hạt, dầu oliu, quả, chúng chứa nhiều
+unsaturated và ít saturated.
+
+KEY: Tránh xa omega-6 (màu xanh nước biển), saturated fat (màu đỏ nâu).
+
+Các loại dầu ăn công nghiệp rẻ tiền hiện nay như dầu "thực vật" hay dầu "đậu
+nành" tuy tốt hơn mỡ lợn và bơ ở khoản ít hơn saturated nhưng lại rất nhiều
+omega-6.
+
+![oils](2019-11-22-health/oils.png)
