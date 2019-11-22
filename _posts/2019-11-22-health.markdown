@@ -55,7 +55,7 @@ dưỡng đa lượng gồm tinh bột (carb), chất xơ (fiber), đạm (prote
 (fat) và đường (sugar). Dinh dưỡng vi lượng gồm vitamin và khoáng chất (mineral)
 (canxi, sắt, magie, omega3-6-9, vân vân).
 
-Chúng ta nên ăn **Whole-plant** foods. (1) Hãy để ý chữ Whole (không phải là
+Chúng ta nên ăn **Whole-plant** foods. (1) Hãy để ý từ Whole (không phải là
 Refined - Đã qua tinh chế hay Processed - đã chế biến). Whole nghĩa là toàn bộ,
 hay chỉ có một thành phần (ingredient) duy nhất. Rau, củ, quả, hạt, thịt, trứng,
 yến mạch, bánh mỳ wholegrain là *whole* vì nó chỉ có một thành phần. Giò, chả,
@@ -142,4 +142,4 @@ Các loại dầu ăn công nghiệp rẻ tiền hiện nay như dầu "thực v
 nành" tuy tốt hơn mỡ lợn và bơ ở khoản ít hơn saturated nhưng lại rất nhiều
 omega-6.
 
-![oils](2019-11-22-health/oils.png)
+![oils](images/posts/2019-11-22-health/oils.png)
