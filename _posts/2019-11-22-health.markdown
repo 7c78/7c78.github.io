@@ -6,8 +6,8 @@ nhu cầu tự nhiên mà do văn hóa, gia đình, xã hội, trường học, 
 đại chúng đã thuyết phục bạn. Và điều quan trọng là bạn KHÔNG nhận thức được
 điều đó.
 
-Bạn nghĩ rằng sữa là cần thiết.\
-Bạn nghĩ rằng thịt là cần thiết.\
+Bạn nghĩ rằng sữa là cần thiết.__
+Bạn nghĩ rằng thịt là cần thiết.__
 Bạn nghĩ rằng nếu không ăn thịt (gà, lợn, bò, trứng), bạn sẽ yếu, mệt, thiếu
 chất. Bạn nghĩ rằng để có sức tập gym, bạn cần phải ăn thật nhiều đạm động vật.
 Và bạn ăn chúng không cần phải nghĩ vì chúng "tốt", "bình thường", và "cần
@@ -51,8 +51,8 @@ cả tin và ít kinh nghiệm đánh giá thông tin.
 
 Cùng nhìn lại các nguyên nhân gây chết người phổ biến nhất ở Mỹ:
 
-1. Heart disease: 614,348                      (Bệnh tim)
-2. Cancer: 591,699                             (Ung thư)
+1. Heart disease: 614,348______________________(Bệnh tim)
+2. Cancer: 591,699_____________________________(Ung thư)
 3. Chronic lower respiratory diseases: 147,101 (Bệnh về đường thở)
 4. Accidents (unintentional injuries): 136,053 (Tai nạn)
 5. Stroke (cerebrovascular diseases): 133,103  (Đột quỵ - Bệnh về não, mạch máu)
