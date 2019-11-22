@@ -50,9 +50,9 @@ cả tin và ít kinh nghiệm đánh giá thông tin.
 Cùng nhìn lại các nguyên nhân gây chết người phổ biến nhất ở Mỹ:
 
 1. Heart disease: 614,348&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Bệnh tim)
-2. Cancer: 591,699                             (Ung thư)
-3. Chronic lower respiratory diseases: 147,101 (Bệnh về đường thở)
-4. Accidents (unintentional injuries): 136,053 (Tai nạn)
+2. Cancer: 591,699&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Ung thư)
+3. Chronic lower respiratory diseases: 147,101&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Bệnh về đường thở)
+4. Accidents (unintentional injuries): 136,053&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Tai nạn)
 5. Stroke (cerebrovascular diseases): 133,103  (Đột quỵ - Bệnh về não, mạch máu)
 6. Alzheimer's disease: 93,541                 (Suy giảm chức năng não)
 7. Diabetes: 76,488                            (Tiểu đường)
