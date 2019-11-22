@@ -1,5 +1,3 @@
-# Sức khỏe
-
 **Văn hóa** Chúng ta vẫn nghĩ rằng thức ăn hàng hàng thứ CẦN hoặc MUỐN. Nhưng
 thực chất, đó không chắc là nhu cầu tự nhiên. Sở dĩ bạn ăn như vậy không phải vì
 nhu cầu tự nhiên mà do văn hóa, gia đình, xã hội, trường học, báo đài, thông tin
@@ -51,8 +49,9 @@ cả tin và ít kinh nghiệm đánh giá thông tin.
 
 Cùng nhìn lại các nguyên nhân gây chết người phổ biến nhất ở Mỹ:
 
-1. Heart disease: 614,348&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Bệnh tim)
-2. Cancer: 591,699&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Ung thư)
+<pre>
+1. Heart disease: 614,348                      (Bệnh tim)
+2. Cancer: 591,699                             (Ung thư)
 3. Chronic lower respiratory diseases: 147,101 (Bệnh về đường thở)
 4. Accidents (unintentional injuries): 136,053 (Tai nạn)
 5. Stroke (cerebrovascular diseases): 133,103  (Đột quỵ - Bệnh về não, mạch máu)
@@ -62,6 +61,6 @@ Cùng nhìn lại các nguyên nhân gây chết người phổ biến nhất �
 9. Nephritis, nephrotic syndrome, and nephrosis: 48,146 (Bệnh về thận)
 10. Intentional self-harm (suicide): 42,773             (Tự sát)
 
-(Nguồn: Centers for Disease Control and Prevention)<br />
-[https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm)
-
+(Nguồn: Centers for Disease Control and Prevention)
+https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
+</pre>
