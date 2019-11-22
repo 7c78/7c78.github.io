@@ -1,0 +1,30 @@
+# Site settings
+title: 7c78
+description: Tomorrow will be a good day
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://7c78.github.io" # the base hostname & protocol for your site
+permalink: /:title
+github: 7c78
+stackoverflow:
+googleplus:
+linkedin:
+# Posts with a date in the future can be seen immediately
+future: true
+
+# Build settings
+markdown: kramdown
+kramdown:
+#  auto_ids:       true
+#  footnote_nr:    1
+#  entity_output:  as_char
+#  toc_levels:     1..2
+#  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+#  hard_wrap:      false
+#  header_offset:  1
+  math_engine:  mathjax
+
+#  enable_coderay: true
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: nil
+# highlighter: rouge

@@ -1,0 +1,63 @@
+# Sức khỏe
+
+**Văn hóa** Chúng ta vẫn nghĩ rằng thức ăn hàng hàng thứ CẦN hoặc MUỐN. Nhưng
+thực chất, đó không chắc là nhu cầu tự nhiên. Sở dĩ bạn ăn như vậy không phải vì
+nhu cầu tự nhiên mà do văn hóa, gia đình, xã hội, trường học, báo đài, thông tin
+đại chúng đã thuyết phục bạn. Và điều quan trọng là bạn KHÔNG nhận thức được
+điều đó.
+
+Bạn nghĩ rằng sữa là cần thiết.\
+Bạn nghĩ rằng thịt là cần thiết.\
+Bạn nghĩ rằng nếu không ăn thịt (gà, lợn, bò, trứng), bạn sẽ yếu, mệt, thiếu
+chất. Bạn nghĩ rằng để có sức tập gym, bạn cần phải ăn thật nhiều đạm động vật.
+Và bạn ăn chúng không cần phải nghĩ vì chúng "tốt", "bình thường", và "cần
+thiết".
+
+Rằng bữa ăn mà không có thịt thì đó là bữa ăn nghèo dinh dưỡng. Đó là thiếu hụt
+nhận thức. Rằng rau hay thực vật là thứ rẻ tiền, chỉ có chất xơ và chỉ có tác
+dụng "tốt cho tiêu hóa".
+
+Cách chúng ta nhìn nhận thịt với rau như vậy khác hoàn toàn với thực tế.
+
+Thực tế, dinh dưỡng tập trung nhiều nhất ở thực vật chứ không phải động vật.
+Thực tế, thức ăn thực vật tốt cho sức khỏe hơn thức ăn động vật
+([https://www.ncbi.nlm.nih.gov/pubmed/10466159](https://www.ncbi.nlm.nih.gov/pubmed/10466159)).
+
+Chế độ ăn của chúng ta bị ảnh hưởng bởi văn hóa. Bạn sinh ra ở Việt Nam, Nhật
+Bản, Hàn Quốc, Ấn Độ, Mỹ, Pháp, Châu Phi, bạn sẽ ăn những thức ăn hoàn toàn khác
+nhau. Trong khi Ấn Độ không ăn thịt bò thì Trung Đông lại không ăn thịt lợn.
+Trong khi Mỹ không ăn thịt ngựa thì Châu Âu lại ăn thịt ngựa. Và tất nhiên trứng
+vịt lộn là một món ăn "kinh dị" đối với bất kỳ người phương tây nào. Chế độ ăn
+của chúng ta bị ảnh hưởng mà ta không biết. Chúng ta "muốn" và "cần" nhưng liệu
+đó có thực sự là nhu cầu tự nhiên. Hay chúng ta đã bị lập trình?
+
+**Thái độ mở** Khi đọc show note này, bạn hãy giữ cái đầu mở. Bản thân mình là
+một người sinh ra và lớn lên ăn thịt, ăn trứng, uống sữa. Món ưa thích của mình
+là thịt lợn, thịt bò, thịt gà (tất cả các loại thịt). Nhưng mình đã thay đổi.
+
+**Truyền thông** Đa số các thông tin về sức khỏe, dinh dưỡng, hay bệnh tật trên
+tivi, báo đài, Internet đều không đáng tin. Phần lớn những thông tin về chủ đề
+này được hình thành qua truyền miệng hoặc được chắt lọc từ các bài báo cóp nhặt,
+không dựa trên nghiên cứu, với mục đích tăng view (tăng quảng cáo, tăng doanh
+thu). Qua thời gian, chúng trở thành thông tin "chính thống".
+
+**Truyền thông** Thông tin đáng tin cậy hơn là các nghiên cứu khoa học, các
+nguồn thông tin độc lập và sách dựa trên nghiên cứu cụ thể.
+
+**Thông tin** Vấn đề không phải là thiếu thông tin đúng. Vấn đề là quá nhiều
+thông tin sai. Khi thông tin sai nhiều hơn thông tin đúng, người tiếp nhận thông
+tin sẽ có xu hướng tin vào thông tin sai. Đây là điều nguy hiểm cho những người
+cả tin và ít kinh nghiệm đánh giá thông tin.
+
+Cùng nhìn lại các nguyên nhân gây chết người phổ biến nhất ở Mỹ:
+
+1. Heart disease: 614,348                      (Bệnh tim)
+2. Cancer: 591,699                             (Ung thư)
+3. Chronic lower respiratory diseases: 147,101 (Bệnh về đường thở)
+4. Accidents (unintentional injuries): 136,053 (Tai nạn)
+5. Stroke (cerebrovascular diseases): 133,103  (Đột quỵ - Bệnh về não, mạch máu)
+6. Alzheimer's disease: 93,541                 (Suy giảm chức năng não)
+7. Diabetes: 76,488                            (Tiểu đường)
+8. Influenza and pneumonia: 55,227             (Cảm cúm, viêm phổi)
+9. Nephritis, nephrotic syndrome, and nephrosis: 48,146 (Bệnh về thận)
+10. Intentional self-harm (suicide): 42,773             (Tự sát)
