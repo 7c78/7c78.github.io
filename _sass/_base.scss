@@ -285,11 +285,13 @@ strong {
 }
 
 table {
+  width: 100%;
   border-collapse: collapse;
 }
 
 th {
   background: #ccc;
+  text-transform: uppercase;
 }
 
 th, td {
