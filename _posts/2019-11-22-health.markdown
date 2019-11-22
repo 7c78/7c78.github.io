@@ -47,20 +47,34 @@ thông tin sai. Khi thông tin sai nhiều hơn thông tin đúng, người ti�
 tin sẽ có xu hướng tin vào thông tin sai. Đây là điều nguy hiểm cho những người
 cả tin và ít kinh nghiệm đánh giá thông tin.
 
-Cùng nhìn lại các nguyên nhân gây chết người phổ biến nhất ở Mỹ:
+## Kiến thức chung
 
-<pre class="death-causes">
-1. Heart disease: 614,348                      (Bệnh tim)
-2. Cancer: 591,699                             (Ung thư)
-3. Chronic lower respiratory diseases: 147,101 (Bệnh về đường thở)
-4. Accidents (unintentional injuries): 136,053 (Tai nạn)
-5. Stroke (cerebrovascular diseases): 133,103  (Đột quỵ - Bệnh về não, mạch máu)
-6. Alzheimer's disease: 93,541                 (Suy giảm chức năng não)
-7. Diabetes: 76,488                            (Tiểu đường)
-8. Influenza and pneumonia: 55,227             (Cảm cúm, viêm phổi)
-9. Nephritis, nephrotic syndrome, and nephrosis: 48,146 (Bệnh về thận)
-10. Intentional self-harm (suicide): 42,773             (Tự sát)
-</pre>
+**Dinh dưỡng Đa lượng và Dinh dưỡng Vi lượng** Dinh dưỡng (nutrient) được chia
+thành hai nhóm: đa lượng (macronutrients) và vi lượng (micronutrients). Dinh
+dưỡng đa lượng gồm tinh bột (carb), chất xơ (fiber), đạm (protein), chất béo
+(fat) và đường (sugar). Dinh dưỡng vi lượng gồm vitamin và khoáng chất (mineral)
+(canxi, sắt, magie, omega3-6-9, vân vân).
 
-(Nguồn: Centers for Disease Control and Prevention)<br>
-[https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm)
+Chúng ta nên ăn **Whole-plant** foods. (1) Hãy để ý chữ Whole (không phải là
+Refined - Đã qua tinh chế hay Processed - đã chế biến). Whole nghĩa là toàn bộ,
+hay chỉ có một thành phần (ingredient) duy nhất. Rau, củ, quả, hạt, thịt, trứng,
+yến mạch, bánh mỳ wholegrain là *whole* vì nó chỉ có một thành phần. Giò, chả,
+ngũ cốc, Milo, gạo trắng không phải là *whole*. Chúng ta cần tránh đồ ăn đã qua
+tinh chế hoặc đã qua chế biến và nên ăn whole foods. (2) Plant. Cơ thể chúng ta
+cần rất nhiều dinh dưỡng đa lượng và vi lượng. Hầu hết những dinh dưỡng này chỉ
+có thể tìm thấy ở thực vật chứ không nằm trong thịt. Vì vậy người ăn thịt tuy có
+vẻ đủ no nhưng vẫn thiếu chất trầm trọng và thừa độc tố.
+
+Giải pháp ở đây là: Chỉ ăn **Whole plant foods**.
+
+**Ăn chay (Vegan / Vegetarian)** Khi nhắc đến ăn chay, chúng ta liên kết tới
+tình thương động vật hay sư sãi trong chùa. Bản thân mình không thích những từ
+này vì nó là lối sống dựa trên niềm tin chứ không phải khoa học. Chế độ ăn của
+mình dựa trên khoa học để có lợi cho bản thân mình trước, cho nên mình không ăn
+chay, mình ăn thực vật.
+
+Khi nhắc đến hay nhìn vào thực vật, bạn sẽ nghĩ đến "rau" hay "quả". Nhưng thực
+tế thực vật đa dạng và nhiều hơn "rau" và "quả" rất nhiều.
+
+Thực vật có các nhóm sau:
+
