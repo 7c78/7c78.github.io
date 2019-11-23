@@ -1,5 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 images/Thumbs.db
 images/posts/Thumbs.db
