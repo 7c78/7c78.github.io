@@ -6,9 +6,7 @@ categories: health
 tags: health nutrition
 ---
 
-Tổng hợp từ
-
-* [https://daylambanh.edu.vn/200-tu-vung-nganh-bep-banh](https://daylambanh.edu.vn/200-tu-vung-nganh-bep-banh)
+*Nguồn Internet*
 
 ## Terminologies
 
