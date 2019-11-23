@@ -37,5 +37,22 @@ spread: trét, phết (bơ, phô mai...)<br>
 peel: gọt vỏ<br>
 grease: trộn với dầu mỡ hoặc bơ<br>
 stir: khuấy, đảo (trong chảo)<br>
+beat: đánh trứng nhanh<br>
+crush: ép, vắt, nghiền<br>
+blend: hòa, xoay (bằng máy xay)<br>
+slice: xắt mỏng<br>
+chop: xắt nhỏ, băm nhỏ<br>
+soak: ngâm, nhúng nước<br>
+drain: làm ráo nước<br>
+marinate: ướp<br>
+grate: bào<br>
 bake: nướng bằng lò<br>
 grill: nướng<br>
+fry: rán, chiên<br>
+steam: hấp<br>
+barbecue: nướng (thịt) bằng vỉ nướng và than<br>
+boil: đun sôi<br>
+stew: hầm<br>
+stir fry: xào<br>
+roast: ninh<br>
+
