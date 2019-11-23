@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Nguyên liệu và thực đơn"
-date:   2019-11-23
+layout:  post
+title:   "Nguyên liệu và thực đơn"
+excerpt: "Nguyên liệu và thực đơn"
+date:    2019-11-23
 categories: health
 tags: health nutrition
 ---
-
 *Nguồn Internet*
 
 ## Terminologies

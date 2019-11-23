@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Markdown and Liquid tags"
-date:   2015-07-18 10:03:05
+layout:  post
+title:   "Markdown and Liquid tags"
+excerpt: "Markdown and Liquid tags"
+date:    2015-07-18 10:03:05
 categories: news
 ---
 This is a short reminder for the [Markdown](https://en.wikipedia.org/wiki/Markdown)

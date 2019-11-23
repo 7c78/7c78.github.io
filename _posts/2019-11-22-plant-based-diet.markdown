@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  "Plant-based diet"
-date:   2019-11-22 10:00:00
+layout:  post
+title:   "Plant-based diet"
+excerpt: "Plant-based diet"
+date:    2019-11-22 10:00:00
 categories: health
 tags: health nutrition
 ---
-
 *Nguồn Internet*
 
 ## Định hướng
