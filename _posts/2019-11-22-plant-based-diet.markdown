@@ -103,7 +103,7 @@ Thực vật có các nhóm sau:
 | Fruit<br>(trái cây)                | Táo (apple)                                                                                                                         | Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)<br>Chống ung thư (mạnh)                                                                 |
 | Vegetable<br>(rau)                 | Súp lơ xanh (broccoli)<br>Súp lơ trắng (cauliflower)<br>Cải bắp (cabbage)<br>Cải xoăn kale (kale)<br>Cải thìa (bok choy)            | Chất xơ (rất nhiều)<br>Vitamin (rất rất nhiều)<br>Khoáng chất (rất nhiều)<br>Chống oxy hoá(rất nhiều)<br>Chống ung thư (mạnh)                                 |
 | Spice<br>(gia vị)                  | Nghệ (turmeric)<br>Gừng (ginger)<br>Quế (cinnamon)<br>Đinh hương (clove)                                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Chống oxy hoá(rất nhiều)<br>Chống ung thư (rất mạnh) |
-| Herb<br>(thảo mộc)                 | Mùi tây (parsley)<br>Húng quế (basil)<br>Mùi (cilantro)<br>Thì là (dill)<br>Tỏi (garlic)                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Chống oxy hoá(rất nhiều)<br>Chống ung thư (rất mạnh) |
+| Herb<br>(lá thơm)                  | Mùi tây (parsley)<br>Húng quế (basil)<br>Mùi (cilantro)<br>Thì là (dill)<br>Tỏi (garlic)                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Chống oxy hoá(rất nhiều)<br>Chống ung thư (rất mạnh) |
 | Khác                               | Trà (tea)<br>Cà phê (coffee)<br>Cacao (cocoa)                                                                                       | Chống oxy hoá (rất nhiều)<br>Tăng cường chức năng não                                                                                                         |
 
 **Độ giàu dinh dưỡng (nutrient-dense)** Số lượng quan trọng nhưng chất lượng còn
@@ -137,7 +137,7 @@ thực phẩm hay thực phẩm bổ sung.
 (cognitive decline) đến tận 5 năm.
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322418](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322418)
 
-**Gia vị, thảo mộc và chống oxy hóa** Theo danh sách chỉ số ORAC, đinh hương,
+**Gia vị, lá thơm và chống oxy hóa** Theo danh sách chỉ số ORAC, đinh hương,
 quế, lá oregano và các loại gia vị khác có tính chống oxy hóa thuộc hàng đầu.
 Tuy nhiên bạn không thể nào “ăn” được chúng nhiều như cocoa hay rau, củ quả vì
 hương vị rất nặng. Chỉ cần cho một chút vào đồ ăn thôi cũng đủ làm tăng tính oxy
