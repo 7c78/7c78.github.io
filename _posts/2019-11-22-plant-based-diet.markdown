@@ -65,19 +65,20 @@ dưỡng đa lượng gồm tinh bột (carb), chất xơ (fiber), đạm (prote
 (fat) và đường (sugar). Dinh dưỡng vi lượng gồm vitamin và khoáng chất (mineral)
 (canxi, sắt, magie, omega3-6-9, vân vân).
 
-Chúng ta nên ăn **Whole-plant** foods. (1) Hãy để ý từ Whole (không phải là
-Refined - qua tinh luyện, hay Processed - chế biến sẵn). Whole nghĩa là toàn bộ,
-hay chỉ có một thành phần (ingredient) duy nhất. Rau, củ, quả, hạt, thịt, trứng,
-yến mạch, bánh mỳ wholegrain là *whole* vì nó chỉ có một thành phần. Giò, chả,
-ngũ cốc, Milo, gạo trắng không phải là *whole*. Chúng ta cần tránh đồ ăn đã qua
-tinh chế hoặc chế biến sẵn và nên ăn whole foods. (2) Plant. Cơ thể chúng ta cần
-rất nhiều dinh dưỡng đa lượng và vi lượng. Hầu hết những dinh dưỡng này chỉ có
-thể tìm thấy ở thực vật chứ không nằm trong thịt. Vì vậy người ăn thịt tuy có vẻ
-đủ no nhưng vẫn thiếu chất trầm trọng và thừa độc tố.
+Chúng ta nên ăn **Whole-plant** foods. (1) Hãy để ý từ *Whole* (không phải là
+Refined - đã qua tinh chế, hay Processed - chế biến sẵn). Whole nghĩa là toàn
+bộ, hay chỉ có một thành phần (ingredient) duy nhất. Rau, củ, quả, hạt, thịt,
+trứng, yến mạch, bánh mỳ wholegrain là *whole* vì nó chỉ có một thành phần. Giò,
+chả, ngũ cốc, milo, gạo trắng không phải là *whole*. Chúng ta cần tránh đồ ăn đã
+qua tinh chế hoặc chế biến sẵn và nên ăn whole foods. (2) Plant. Cơ thể chúng ta
+cần rất nhiều dinh dưỡng đa lượng và vi lượng. Hầu hết những dinh dưỡng này, đặc
+biệt là dinh dưỡng vi lượng chỉ có thể tìm thấy ở thực vật chứ không nằm trong
+thịt. Vì vậy người ăn thịt tuy có vẻ đủ no nhưng vẫn thiếu chất trầm trọng và
+thừa độc tố.
 
-Giải pháp ở đây là: Chỉ ăn **Whole plant foods**.
+Giải pháp ở đây là: Chỉ ăn **Whole plant foods**, hay gọi nôm na là ăn thực vật.
 
-**Ăn chay (Vegan / Vegetarian)** Khi nhắc đến ăn chay, chúng ta liên kết tới
+**Ăn chay (Vegan / Vegetarian)** Khi nhắc đến ăn chay, chúng ta liên tưởng tới
 tình thương động vật hay sư sãi trong chùa. Bản thân mình không thích những từ
 này vì nó là lối sống dựa trên niềm tin chứ không phải khoa học. Chế độ ăn của
 mình dựa trên khoa học để có lợi cho bản thân mình trước, cho nên mình không ăn
@@ -90,11 +91,11 @@ Thực vật có các nhóm sau:
 
 | Nhóm                               | Ví dụ                                                                                                                               | Dinh dưỡng                                                                                                                                                    |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Wholegrain<br>(ngũ cốc nguyên hạt) | Yến mạch (whole-grain oats)<br>Gạo lứt (brown rice)<br>Lúa mì (wholegrain wheat)<br>Khoai tây (potato)<br>Khoai lang (sweet potato) | Tinh bột (nhiều)<br>Đạm (nhiều)<br>Chất xơ (nhiều)<br>Vitamin (ít)<br>Khoáng chất (ít)                                                                        |
+| Wholegrain<br>(ngũ cốc nguyên hạt) | Yến mạch (whole-grain oat)<br>Gạo lứt (brown rice)<br>Lúa mì (wholegrain wheat)<br>Khoai tây (potato)<br>Khoai lang (sweet potato) | Tinh bột (nhiều)<br>Đạm (nhiều)<br>Chất xơ (nhiều)<br>Vitamin (ít)<br>Khoáng chất (ít)                                                                         |
 | Nut<br>(hạt to)                    | Hạt lạc (peanut)<br>Hạt hạnh nhân (Almond)<br>Hạt óc chó (walnut)<br>hạt hồ đào (pecan)                                             | Tinh bột (nhiều)<br>Đạm (rất nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)                                                  |
 | Seed<br>(hạt nhỏ)                  | Hạt lanh (flaxseed)<br>Hạt chia (chiaseed)<br>Hạt vừng (sesame)                                                                     | Tinh bột (ít)<br>Đạm (rất nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)                                                     |
 | Legume<br>(hạt đậu)                | Đậu thận (kidney bean)<br>Đậu lăng (Lentils)<br>Đậu đen (blackbean)<br>Đậu xanh (greenbean)                                         | Tinh bột (nhiều)<br>Đạm (rất nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)                                                  |
-| Fruit<br>(quả)                     | Táo (apple)                                                                                                                         | Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)<br>Chống ung thư (mạnh)                                                                 |
+| Fruit<br>(trái cây)                | Táo (apple)                                                                                                                         | Chất xơ (rất nhiều)<br>Vitamin (rất nhiều)<br>Khoáng chất (rất nhiều)<br>Chống ung thư (mạnh)                                                                 |
 | Vegetable<br>(rau)                 | Súp lơ xanh (broccoli)<br>Súp lơ trắng (cauliflower)<br>Cải bắp (cabbage)<br>Cải xoăn kale (kale)<br>Cải thìa (bok choy)            | Chất xơ (rất nhiều)<br>Vitamin (rất rất nhiều)<br>Khoáng chất (rất nhiều)<br>Chống oxy hoá(rất nhiều)<br>Chống ung thư (mạnh)                                 |
 | Spice<br>(gia vị)                  | Nghệ (turmeric)<br>Gừng (ginger)<br>Quế (cinnamon)<br>Đinh hương (clove)                                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Chống oxy hoá(rất nhiều)<br>Chống ung thư (rất mạnh) |
 | Herb<br>(thảo mộc)                 | Mùi tây (parsley)<br>Húng quế (basil)<br>Mùi (cilantro)<br>Thì là (dill)<br>Tỏi (garlic)                                            | Tinh bột (ít)<br>Đạm (nhiều)<br>Chất xơ (rất nhiều)<br>Vitamin (nhiều)<br>Khoáng chất (rất rất nhiều)<br>Chống oxy hoá(rất nhiều)<br>Chống ung thư (rất mạnh) |
@@ -108,9 +109,37 @@ không phải số lượng. Một tí xíu quế (cinnamon) bỏ vào đồ u�
 tăng lượng antioxidant (chống oxy hoá) bằng cả ngày của một người trung bình.
 
 **ANDI (Aggregate Nutrient Density Index) - Chỉ số giàu dinh dưỡng** Đồ ăn nào
-chứa lượng dinh dưỡng đậm đặc nhất.
-
+chứa lượng dinh dưỡng đậm đặc nhất.<br>
 [http://www.micronutrients.com/wp-content/uploads/2015/07/ANDI-chart.pdf](http://www.micronutrients.com/wp-content/uploads/2015/07/ANDI-chart.pdf)
+
+**Chất chống oxy hóa (Antioxidant)** "Chất chống oxy hóa" không thực sự là tên
+của một chất, mà nó mô tả những gì một loạt các chất có thể làm. Có hàng trăm và
+có thể hàng ngàn chất có thể hoạt động như chất chống oxy hóa. Mỗi loại có một
+vai trò riêng và có thể kết hợp với loại khác giúp cơ thể hoạt động hiệu quả.
+Mỗi chất chống oxy hóa phục vụ một chức năng khác nhau và không thể thay thế cho
+nhau. Đây là lý do tại sao điều quan trọng là có một chế độ ăn uống đa dạng.
+
+Vitamin E là một loại vitamin nổi tiếng có khả năng chống oxy hoá ở trong một số
+loại rau, quả hạt. Thứ còn mạnh gấp nhiều lần Vitamin E là EGCG có trong trà
+xanh (green tea) hay matcha. Thứ còn mạnh gấp nhiều lần trà xanh là Astaxanthin
+(nguồn gốc từ các loài tảo thực vật dưới biển sâu).
+
+**Chỉ số ORAC (oxygen radical absorbance capacity)** là viết tắt của khả năng
+hấp thụ gốc oxy hóa, và là thước đo tổng khả năng chống oxy hóa của các loại
+thực phẩm hay thực phẩm bổ sung.
+
+**Cognitive functions** Biết 2 ngôn ngữ có thể đẩy lùi suy giảm chức năng não
+(cognitive decline) đến tận 5 năm.
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322418](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322418)
+
+**Gia vị, thảo mộc và chống oxy hóa** Theo danh sách chỉ số ORAC, đinh hương,
+quế, lá oregano và các loại gia vị khác có tính chống oxy hóa thuộc hàng đầu.
+Tuy nhiên bạn không thể nào “ăn” được chúng nhiều như cocoa hay rau, củ quả vì
+hương vị rất nặng. Chỉ cần cho một chút vào đồ ăn thôi cũng đủ làm tăng tính oxy
+hoá của đồ ăn lên gấp nhiều lần.
+
+Tất cả các đồ ăn chứa antioxidant đều nằm trong thực vật trong khi đồ ăn
+pro-oxidant (chất oxy hoá) lại nằm ở thịt. Vì vậy chúng ta lựa chọn ăn thực vật.
 
 **Chất xơ (fiber)** đã được chứng minh làm giảm rủi ro<br>
 Ung thư dạ dày (colon cancer) [http://www.bmj.com/content/343/bmj.d6617](http://www.bmj.com/content/343/bmj.d6617)<br>
@@ -119,10 +148,6 @@ Tiểu đường (Diabetes) [https://www.ncbi.nlm.nih.gov/pubmed/24389767](https
 Bệnh tim (heart disease) [http://www.bmj.com/content/347/bmj.f6879](http://www.bmj.com/content/347/bmj.f6879)<br>
 Béo phì (Obesity) [https://www.ncbi.nlm.nih.gov/pubmed/16741275](https://www.ncbi.nlm.nih.gov/pubmed/16741275)<br>
 và rất nhiều loại bệnh chết người khác. [https://www.ncbi.nlm.nih.gov/pubmed/25143474](https://www.ncbi.nlm.nih.gov/pubmed/25143474)
-
-**Cognitive functions** Biết 2 ngôn ngữ có thể đẩy lùi suy giảm chức năng não
-(cognitive decline) đến tận 5 năm.
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322418](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322418)
 
 **Omega-3 (tốt)** Rất hiếm nguồn thức ăn chứa omega-3. Omega-3 tăng cường sức
 khỏe não, mắt, tim mạch, chống viêm (inflammation), rối loạn não (mental
@@ -170,3 +195,42 @@ chống viêm (anti-inflammatory), và chứa nhiều vitamin và khoáng chất
 | Unhealthy Food | Bánh mì trắng (White bread) – **Tăng tiểu đường, đột quỵ**<br>Bơ (Butter) - **nhiều chất béo bão hòa**<br>Trứng (Egg) - **tăng nguy cơ Ung thư tuyến tiền liệt, bệnh tim**<br>Sữa (Dairy)<br>Gà (Chicken) - **tăng nguy cơ Ung thư tuyến tiền liệt**<br>Mayonnaise - **nhiều chất béo bão hòa**<br>Muối (Salt) - **nằm giữa unhealthy và death food**<br>Dầu thực vật - **quá nhiều omega-6**<br>Vitamin A viên<br>Vitamin C viên<br>Multivitamins viên<br>Vitamin E viên<br>Canxi viên<br>Phô mai (Cheese)<br>Pizza                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Death food     | Mỡ lợn (Pork fat) - **quá nhiều chất béo bão hòa**<br>Thịt lợn (Pork) - **quá nhiều mầm bệnh**<br>Thịt bò (Beef)<br>Thịt chế biến sẵn (Processed meat) - **cực hại**<br>Khoai tây chiên (French fry)<br>Burger<br>Đường (Sugar) – **suy giảm chức năng não, tăng nguy cơ tiểu đường**<br>Coca-Cola - **cực hại**<br>Các loại trà xanh đóng chai<br>Thuốc lá                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
+**Cacao (Cocoa)** Có nên sử dụng các sản phẩm đồ uống Sô cô la trên thị trường
+hiện nay? Câu trả lời phụ thuộc vào loại đồ uống. Nếu là cacao 100%, chỉ số
+antioxidant là 55630 (thuộc hàng cao). Trong khi đồ uống như milo hay nestle chỉ
+rơi vào khoảng 485, tức là rất loãng và chủ yếu là đường và các chất phụ gia.
+Chỉ uống cacao nguyên nhất 100% mới có tác dụng.
+
+Cacao còn có **flavonoids** (làm cho nó có vị đắng). Flavonoids là một chất
+chống oxy hoá và đẩy lùi quá trình suy giảm chức năng não. Nếu bạn muốn trí nhớ
+và khả năng suy nghĩ không bị suy giảm, hãy chấp nhận đắng một chút (uống mỗi
+ngày sẽ quen và thậm chí còn thấy thích).
+
+**Matcha** Là dạng lá trà xanh được xay và xử lý thành dạng bột. 1-2g matcha
+bằng 10 cốc trà xanh bình thường vì khi pha trà chúng ta chỉ uống nước rồi bỏ
+lá. Trong khi các chất thuộc nhóm flavonoids (antioxidants) vẫn nằm nhiều trong
+lá trà xanh mà chúng ta bỏ đi. Suy ra, chọn matcha thay vì uống trà thông
+thường.
+
+**Trà xanh đóng chai** Ngừng tin vào quảng cáo của đồ ăn thương mại. Vì nó rất
+sai lệch. Trà xanh có tính EGCG mạnh gấp 5 lần Vitamin E. Đúng. Nhưng lượng trà
+xanh có trong trà xanh đóng chai không đáng kể. Lượng đường và chất bảo quản khá
+nhiều. Tóm lại uống có hại hơn có lợi. Tương tự với milo. Hầu như không có nhiều
+dinh dưỡng như quảng cáo.
+
+**Sinh tố và Nước trái cây (Nước hoa quả)** Bạn sẽ bất ngờ nếu mình khuyên bạn
+KHÔNG nên uống sinh tố bơ hay nước cam ở các quán cà phê hay nhà hàng. Mình đã
+chứng kiến rất nhiều nơi khi pha nước cam và sinh tố bơ họ cho hai thìa đường
+đầy ứ ự. Tim mình như chuẩn bị nổ tung khi nhìn thấy hai thìa đường bằng lượng
+đường cả tháng mình tiêu thụ chỉ trong một cốc sinh tố bơ. Thật kinh khủng.
+Đường sẽ làm cho bộ não của bạn kiệt quệ, sẽ gây áp lực lên máu của bạn và là
+một trong những thứ gây nghiện và độc hại nhất.
+
+Ít ra chúng ta hiểu được Cocacola nó có hại như thế nào. Còn sinh tố bơ và nước
+cam ở quán cà phê / nhà hàng, vẫn nhiều người vẫn tưởng rằng họ đang uống thứ đồ
+uống lành mạnh và sự nhận thức sai mới là thứ đáng lo ngại.
+
+**Quả hay Nước hoa quả** Không nên uống nước hoa quả. Vì như vậy là bạn đã loại
+bỏ ra rất nhiều dinh dưỡng cần thiết như xơ vẫn nằm trong quả hoặc rau. Nếu bạn
+ăn quả thay vì uống nước hoa quả, đường tự nhiên trong quả sẽ đi vào máu chậm
+hơn thay vì bị nạp đột ngột, và dinh dưỡng được hấp thụ một cách hoàn toàn hơn.
