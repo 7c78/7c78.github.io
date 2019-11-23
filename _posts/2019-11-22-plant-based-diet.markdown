@@ -151,7 +151,7 @@ Các loại dầu ăn công nghiệp rẻ tiền hiện nay như dầu "thực v
 nành" tuy tốt hơn mỡ lợn và bơ ở khoản ít hơn saturated nhưng lại rất nhiều
 omega-6.
 
-![oils](images/posts/2019-11-22-health/oils.png)
+![oils](images/posts/2019-11-22-plant-based-diet/oils.png)
 
 **Siêu thực phẩm (super foods)** Chúng ta thường nghĩ superfood là những đồ đắt
 tiền như kiểu mật gấu, tổ yến, rượu rắn. Sự thật, chúng chả có dinh dưỡng gì.
