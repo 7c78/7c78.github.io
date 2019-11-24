@@ -124,8 +124,6 @@ cocoa: cacao
 
 **Táo ta (jujube)**
 
-![táo ta](images/posts/2019-11-23-raw-materials-and-meals/jujube.jpg)
-
 Nơi bán:
 
 - [[biggreen] Táo Ninh Thuận ~ 70k/kg](http://www.biggreen.com.vn/product/tao-ninh-thuan.aspx)
@@ -133,15 +131,11 @@ Nơi bán:
 
 **Chôm chôm (Rambutan)**
 
-![chôm chôm](images/posts/2019-11-23-raw-materials-and-meals/rambutan.jpg)
-
 Nơi bán:
 
 - [[biggreen] Chôm chôm nhãn  ~ 70k/kg](http://www.biggreen.com.vn/product/chom-chom-nhan.aspx)
 
 **Roi (java apple)**
-
-![roi](images/posts/2019-11-23-raw-materials-and-meals/javaapple.jpg)
 
 Nơi bán:
 
@@ -149,23 +143,17 @@ Nơi bán:
 
 **Nho (grape)**
 
-![nho](images/posts/2019-11-23-raw-materials-and-meals/grape.jpg)
-
 Nơi bán:
 
 - [[biggreen] Nho xanh Ninh Thuận ~ 100kg/kg](http://www.biggreen.com.vn/product/nho-xanh-vietgap-ninh-thuan.aspx)
 
 **Thanh long (Pitaya)**
 
-![thanh long](images/posts/2019-11-23-raw-materials-and-meals/pitaya.jpg)
-
 Nơi bán:
 
 - [[biggreen] Thanh long ruột đỏ ~ 80k/kg](http://www.biggreen.com.vn/product/thanh-long-ruot-do-vietgap.aspx)
 
 **Đu đủ (papaya)**
-
-![đu đủ](images/posts/2019-11-23-raw-materials-and-meals/papaya.jpg)
 
 Nơi bán:
 
