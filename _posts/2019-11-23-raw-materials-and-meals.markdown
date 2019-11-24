@@ -124,47 +124,54 @@ cocoa: cacao
 
 **Táo ta (jujube)**
 
-Nơi bán:
-
+Nơi bán:<br>
 - [[biggreen] Táo Ninh Thuận ~ 70k/kg](http://www.biggreen.com.vn/product/tao-ninh-thuan.aspx)
-
 
 <br>**Chôm chôm (Rambutan)**
 
-Nơi bán:
-
+Nơi bán:<br>
 - [[biggreen] Chôm chôm nhãn  ~ 70k/kg](http://www.biggreen.com.vn/product/chom-chom-nhan.aspx)
 
 <br>**Roi (java apple)**
 
-Nơi bán:
-
+Nơi bán:<br>
 - [[biggreen] Roi đỏ ~ 70k/kg](http://www.biggreen.com.vn/product/roi-do.aspx)
 
 <br>**Nho (grape)**
 
-Nơi bán:
-
+Nơi bán:<br>
 - [[biggreen] Nho xanh Ninh Thuận ~ 100kg/kg](http://www.biggreen.com.vn/product/nho-xanh-vietgap-ninh-thuan.aspx)
 
 <br>**Thanh long (Pitaya)**
 
-Nơi bán:
-
+Nơi bán:<br>
 - [[biggreen] Thanh long ruột đỏ ~ 80k/kg](http://www.biggreen.com.vn/product/thanh-long-ruot-do-vietgap.aspx)
 - [[biggreen] Thanh long ruột trắng ~ 70k/kg](http://www.biggreen.com.vn/product/thanh-long-ruot-trang.aspx)
 
 <br>**Đu đủ (papaya)**
 
-Nơi bán:
-
+Nơi bán:<br>
 - [[biggreen] Đu đủ ruột vàng ~ 45k/kg](http://www.biggreen.com.vn/product/thanh-long-ruot-do-vietgap.aspx)
 
 <br>**Táo (apple)**
 
+Nơi bán:<br>
 - [[biggreen] Táo Xanh New Zealand ~ 120k/kg](http://www.biggreen.com.vn/product/tao-xanh-new-zealand.aspx)
 
 <br>**Quả mâm xôi / Phúc bồn tử (blackberry)**
 
+Nơi bán:<br>
 - [[biggreen] Phúc bồn tử đen ~ 390k/kg](http://www.biggreen.com.vn/product/phuc-bon-tu-den-qua-mam-xoi.aspx)
 - [[biggreen] Phúc bồn tử đỏ ~ 500k/kg](http://www.biggreen.com.vn/product/phuc-bon-tu-mam-xoi.aspx)
+
+## Hạt nhỏ (Seeds)**
+
+**Hạt Chia (chiaseed)**
+
+Nơi bán:<br>
+- [[biggreen] Hạt Chia Organic Úc ~ 500k/kg](http://www.biggreen.com.vn/product/hat-chia-organic-uc-250g.aspx)
+
+## Nấm (Mushroom)**
+
+Nơi bán:<br>
+- [[biggreen] Nấm hào hương ~ 85k/kg](http://www.biggreen.com.vn/product/nam-hao-huong.aspx)
