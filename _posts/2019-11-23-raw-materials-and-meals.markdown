@@ -170,6 +170,13 @@ Nơi bán:
 
 Nơi bán:
 - [[biggreen] Hạt Chia Organic Úc ~ 500k/kg](http://www.biggreen.com.vn/product/hat-chia-organic-uc-250g.aspx)
+- [[abby] Hạt Chia Organic Úc ~ 370k/kg](https://abby.vn/s/hat-chia-uc-500g)
+
+## Hạt lớn (Nuts)
+
+**Hạt mắc ca (Macadamia)**
+
+- [[abby] Hạt macca nướng nứt vỏ Úc ~ 330k/kg](https://abby.vn/s/hat-macca-nuong-nut-vo-uc-400g)
 
 ## Nấm (Mushroom)
 
