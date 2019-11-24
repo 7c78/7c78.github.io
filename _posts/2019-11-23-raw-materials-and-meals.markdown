@@ -175,21 +175,14 @@ Nơi bán:
 **Hạt Chia (chiaseed)**
 
 Nơi bán:
-- [[biggreen] Hạt Chia Organic Úc ~ 500k/kg](http://www.biggreen.com.vn/product/hat-chia-organic-uc-250g.aspx)
 - [[abby] Hạt Chia Organic Úc ~ 370k/kg](https://abby.vn/s/hat-chia-uc-500g)
-- [[dungha] Hạt chia ~ 280k/kg](https://nongsandungha.com/thuc-pham/hat-chia)
 - [[machyen] Túi chia ~ 260k/kg](https://shopee.vn/Tu%CC%81i-chia-black-bag-i.66714110.1573750196)
 
 <br>**Vừng (sesame)**
 
 - [[abby] Vừng rang ~ 100k/kg](https://abby.vn/s/vung-rang-100g)
-- [[dungha] Vừng trắng ~ 100k/kg](https://nongsandungha.com/thuc-pham/vung-trang)
-- [[dungha] Vừng Đen ~ 100k/kg](https://nongsandungha.com/thuc-pham/hat-vung-den-trang)
 
 <br>**Hạt lanh (flax)**
-
-Nơi bán:
-- [[dungha] Hạt Lanh ~ 240k/kg](https://nongsandungha.com/thuc-pham/hat-lanh)
 
 ## Hạt lớn (Nuts)
 
@@ -202,13 +195,7 @@ Nơi bán:
 
 **Quế (cinnamon)**
 
-Nơi bán:
-- [[dungha] Bột quế ~ 160k/kg](https://nongsandungha.com/thuc-pham/gia-bot-que-nguyen-chat-lam-banh-la-bao-nhieu)
-
 <br>**Hạt tiêu (pepper)**
-
-Nơi bán:
-- [[dungha] Hạt tiêu xay ~ 150k/kg](https://nongsandungha.com/thuc-pham/gia-hat-tieu-xay)
 
 ## Nấm (Mushroom)
 
