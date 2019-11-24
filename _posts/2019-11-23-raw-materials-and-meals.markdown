@@ -162,3 +162,11 @@ Nơi bán:
 Nơi bán:
 
 - [[biggreen] Thanh long ruột đỏ ~ 80k/kg](http://www.biggreen.com.vn/product/thanh-long-ruot-do-vietgap.aspx)
+
+**Đu đủ (papaya)**
+
+![đu đủ](images/posts/2019-11-23-raw-materials-and-meals/papaya.jpg)
+
+Nơi bán:
+
+- [[biggreen] Đu đủ ruột vàng ~ 45k/kg](http://www.biggreen.com.vn/product/thanh-long-ruot-do-vietgap.aspx)
