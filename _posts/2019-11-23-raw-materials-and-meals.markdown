@@ -119,3 +119,23 @@ matcha: mạt trà<br>
 coffee: cà phê<br>
 cocoa: cacao
 
+
+## Trái cây
+
+**Táo ta (jujube)** ~ 70k/kg
+
+![táo ta](images/posts/2019-11-23-raw-materials-and-meals/jujube.jpg)
+
+Nơi bán:
+
+- [biggreen Táo Ninh Thuận](http://www.biggreen.com.vn/product/tao-ninh-thuan.aspx)
+
+
+**Chôm chôm (Rambutan)** ~ 70k/kg
+
+![chôm chôm](images/posts/2019-11-23-raw-materials-and-meals/rambutan.jpg)
+
+Nơi bán:
+
+- [biggreen Chôm chôm nhãn](http://www.biggreen.com.vn/product/chom-chom-nhan.aspx)
+
