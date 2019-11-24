@@ -56,3 +56,8 @@ stew: hầm<br>
 stir fry: xào<br>
 roast: ninh<br>
 
+**Wholegrains**
+
+oatmeal: yến mạch<br>
+brown rice: gạo lứt<br>
+wheat: lúa mì<br>
