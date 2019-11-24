@@ -139,3 +139,6 @@ Nơi bán:
 
 - [biggreen Chôm chôm nhãn](http://www.biggreen.com.vn/product/chom-chom-nhan.aspx)
 
+**Roi (java apple)** ~ 70k/kg
+
+![roi](images/2019-11-23-raw-materials-and-meals/javaapple.jgp)
