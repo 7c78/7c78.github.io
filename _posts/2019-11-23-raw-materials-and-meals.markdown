@@ -119,6 +119,13 @@ matcha: mạt trà<br>
 coffee: cà phê<br>
 cocoa: cacao
 
+## Wholegrain
+
+**Yến mạch (oatmeal)**
+
+Nơi bán:
+- [[machyen] machyenshop](https://shopee.vn/machyenshop.968)
+
 ## Trái cây
 
 **Táo ta (jujube)**
@@ -171,6 +178,7 @@ Nơi bán:
 - [[biggreen] Hạt Chia Organic Úc ~ 500k/kg](http://www.biggreen.com.vn/product/hat-chia-organic-uc-250g.aspx)
 - [[abby] Hạt Chia Organic Úc ~ 370k/kg](https://abby.vn/s/hat-chia-uc-500g)
 - [[dungha] Hạt chia ~ 280k/kg](https://nongsandungha.com/thuc-pham/hat-chia)
+- [[machyen] Túi chia ~ 260k/kg](https://shopee.vn/Tu%CC%81i-chia-black-bag-i.66714110.1573750196)
 
 <br>**Vừng (sesame)**
 
