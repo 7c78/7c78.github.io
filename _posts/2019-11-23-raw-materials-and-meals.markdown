@@ -154,3 +154,11 @@ Nơi bán:
 Nơi bán:
 
 - [[biggreen] Nho xanh Ninh Thuận ~ 100kg/kg](http://www.biggreen.com.vn/product/nho-xanh-vietgap-ninh-thuan.aspx)
+
+**Thanh long (Pitaya)**
+
+![thanh long](images/posts/2019-11-23-raw-materials-and-meals/pitaya.jpg)
+
+Nơi bán:
+
+- [[biggreen] Thanh long ruột đỏ ~ 80k/kg](http://www.biggreen.com.vn/product/thanh-long-ruot-do-vietgap.aspx)
