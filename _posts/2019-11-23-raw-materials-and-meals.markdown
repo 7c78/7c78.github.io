@@ -54,10 +54,68 @@ barbecue: nướng (thịt) bằng vỉ nướng và than<br>
 boil: đun sôi<br>
 stew: hầm<br>
 stir fry: xào<br>
-roast: ninh<br>
+roast: ninh
 
-**Wholegrains**
+**Wholegrains (ngũ cốc)**
 
 oatmeal: yến mạch<br>
 brown rice: gạo lứt<br>
 wheat: lúa mì<br>
+potato: khoai tây<br>
+sweet potato: khoai lang
+
+**Nuts (hạt to)**
+
+peanut: lạc<br>
+almond: hạnh nhân<br>
+walnut: óc chó<br>
+pecan: hồ đào
+
+**Seeds (hạt nhỏ)**
+
+flaxseed: lanh<br>
+chiaseed: chia<br>
+sesame: vừng
+
+**Legumes (hạt đậu)**
+
+kidney bean: đậu thận<br>
+lentil: đậu lăng<br>
+blackbean: đậu đen<br>
+greenbean: đậu xanh
+
+**Fruits (trái cây)**
+
+apple: táo<br>
+orange: cam
+
+**Vegetables (rau)**
+
+broccoli: súp lơ xanh<br>
+cauliflower: súp lơ trắng<br>
+cabbage: cải bắp<br>
+kale: cải xoăn kale<br>
+bok choy: cải thìa
+
+**Spices (gia vị)**
+
+turmeric: nghệ<br>
+ginger: gừng<br>
+cinnamon: quế<br>
+clove: đinh hương
+
+**Herbs (lá thơm)**
+
+parsley: mùi tây (ngò tây)<br>
+basil: húng quế (húng tây)<br>
+cilantro: mùi<br>
+dill: thì là<br>
+garlic: tỏi<br>
+
+**Khác**
+
+tea: trà<br>
+matcha: mạt trà<br>
+coffee: cà phê<br>
+cocoa: cacao
+
